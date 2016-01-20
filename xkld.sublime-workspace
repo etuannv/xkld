@@ -1,0 +1,643 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"non",
+				"none"
+			],
+			[
+				"no",
+				"normal"
+			],
+			[
+				"before",
+				"before_widget"
+			],
+			[
+				"magi",
+				"margin-left"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"the",
+				"the_permalink"
+			],
+			[
+				"thongti",
+				"thongtin_nonce"
+			],
+			[
+				"thong",
+				"thongtin_nonce"
+			],
+			[
+				"tong",
+				"thongtin_nonce"
+			],
+			[
+				"defualt",
+				"default_backgound"
+			],
+			[
+				"lang",
+				"language_folder"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"ANF: Copy Current File"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sftp",
+				"SFTP: Edit Server…"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Diff Current File"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"githu",
+				"GitHub: History"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"his",
+				"Local History: Open"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"histo",
+				"Local History: Browse"
+			],
+			[
+				"localhist",
+				"Local History: Compare"
+			],
+			[
+				"localh",
+				"Local History: Browse"
+			],
+			[
+				"loca",
+				"Local History: Compare"
+			],
+			[
+				"local",
+				"Local History: Compare"
+			],
+			[
+				"localhis",
+				"Local History: Compare"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"ft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sfot",
+				"SFTP: Show Panel"
+			],
+			[
+				"server",
+				"SFTP: Edit Server…"
+			],
+			[
+				"lint",
+				"SublimeLinter: Next Error"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/etuannv/www/xkld"
+	],
+	"file_history":
+	[
+		"/Users/etuannv/Desktop/auvietdeploy",
+		"/Users/etuannv/Desktop/hello.sql",
+		"/Users/etuannv/www/auviet/sftp-config.json",
+		"/Users/etuannv/Downloads/hello",
+		"/Users/etuannv/Downloads/1good.sql",
+		"/Applications/MAMP/Library/lib/python2.7/site-packages/mod_python/python22.py",
+		"/var/folders/2y/tzdv9g_n4_3dpq7f1nkhbrd00000gn/T/sublime-sftp-browse-1452223098/mapped/home/trungdu/public_html/.htacess",
+		"/Users/etuannv/Library/Application Support/Sublime Text 3/Packages/User/sftp_servers/TrungDu",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/css/style.css",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/style.css",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/single.php",
+		"/Users/etuannv/www/auviet/wp-settings.php",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/backend/settings/types.inc.php",
+		"/Users/etuannv/www/auviet/wp-includes/js/tinymce/skins/lightgray/skin.min.css",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/search.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/blog.php",
+		"/Users/etuannv/www/auviet/wp-includes/category-template.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/single-tour.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/page-tour-list.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/page-location-list.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/single-location.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/single-tour.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/page-tour-list.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/custom-search-results.php",
+		"/Users/etuannv/.sublime/history/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/includes/plugins/widgets/2016-01-04_18.58.05.widget-search.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/includes/plugins/widgets/widget-search.php",
+		"/Users/etuannv/www/auviet/untitled.css",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/header.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/css/style.css",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/css/style-curvy-blue.css",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/css/theme-blue.css",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/readme.txt",
+		"/Users/etuannv/Library/Application Support/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/Users/etuannv/www/auviet/wp-content/themes/ChildTheme/byt-child/index.php",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/js/nomin-scoped/jquery.ajaxsearchlite.js",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/functions.php",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/includes/shortcodes.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/languages/vi_VN.pot",
+		"/Users/etuannv/www/auviet/wp-config.php",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/includes/widgets.php",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/includes/views/asl.shortcode.php",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/css/style-curvy-black.css",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/css/style-classic-blue.css",
+		"/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite/css/style-underline.css",
+		"/Users/etuannv/www/auviet/wp-includes/widgets.php",
+		"/private/var/folders/2y/tzdv9g_n4_3dpq7f1nkhbrd00000gn/T/3_stars-1.svg",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/style.css",
+		"/Users/etuannv/www/auviet/wp-admin/network/site-themes.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/twentyfifteen/style.css",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/languages/vi_VN.mo",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/blog.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/404.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/single.php",
+		"/Users/etuannv/www/auviet/wp-includes/customize/class-wp-customize-header-image-setting.php",
+		"/Users/etuannv/www/auviet/wp-includes/js/hoverIntent.js",
+		"/Users/etuannv/www/auviet/wp-includes/http.php",
+		"/Users/etuannv/www/auviet/wp-includes/link-template.php",
+		"/Users/etuannv/www/auviet/wp-links-opml.php",
+		"/Users/etuannv/www/auviet/wp-includes/locale.php",
+		"/Users/etuannv/www/auviet/wp-includes/customize/class-wp-customize-header-image-control.php",
+		"/Users/etuannv/www/auviet/wp-admin/js/language-chooser.js",
+		"/Users/etuannv/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/etuannv/www/auviet/wp-includes/js/mediaelement/silverlightmediaelement.xap",
+		"/Users/etuannv/www/auviet/wp-content/themes/twentyfourteen/images/pattern-light.svg",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/page-accommodation-list.php",
+		"/Users/etuannv/www/auviet/auviet.sublime-project",
+		"/var/folders/2y/tzdv9g_n4_3dpq7f1nkhbrd00000gn/T/sublime-sftp-browse-1450885054/TrungDu/domains/trungduhotel.com.vn/public_html/wp-content/themes/alienship-child/style.css",
+		"/Users/etuannv/www/auviet/wp-blog-header.php",
+		"/Users/etuannv/www/auviet/wp-comments-post.php",
+		"/Users/etuannv/www/auviet/wp-activate.php",
+		"/Users/etuannv/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/etuannv/www/auviet/wp-cron.php",
+		"/Users/etuannv/www/auviet/index.php",
+		"/Users/etuannv/www/auviet/.htaccess",
+		"/Users/etuannv/www/auviet/wp-includes/query.php",
+		"/Users/etuannv/www/auviet/wp-content/themes/BookYourTravel/languages/default.mo",
+		"/Users/etuannv/www/trungdu/wp-content/themes/alienship-child/index.php",
+		"/Users/etuannv/www/trungdu/wp-content/themes/alienship-child/single.php",
+		"/Users/etuannv/www/trungdu/wp-content/themes/alienship-child/style.css",
+		"/Users/etuannv/Downloads/Book_Your_Travel_v6.14_Theme/Book.Your.Travel.Online.Booking.WordPress.Theme.v6.14/Download - Book Your Travel v6.14 - Online Booking WordPress Theme/ChildTheme/byt-child/style.css",
+		"/Users/etuannv/Library/Caches/com.binarynights.ForkLift2/#3/about.html",
+		"/Users/etuannv/Library/Caches/com.binarynights.ForkLift2/#1/BingSiteAuth.xml",
+		"/private/var/folders/2y/tzdv9g_n4_3dpq7f1nkhbrd00000gn/T/fz3temp-1/wp-config.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical.css",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/version.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/vars.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship/style.css",
+		"/Applications/MAMP/htdocs/trungdu/wp-settings.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/category-template.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/category.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/plugins/contact-form-advanced-database/cf7_advance_db.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-config.php",
+		"/private/var/folders/2y/tzdv9g_n4_3dpq7f1nkhbrd00000gn/T/fz3temp-1/index.php",
+		"/Applications/MAMP/htdocs/starloveshop/wp-config.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/templates/parts/content.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/archive.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/header.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/style.css",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/templates/parts/cate-room.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/functions.php",
+		"/Applications/MAMP/htdocs/dulich/db/dulich_data.sql",
+		"/Users/etuannv/Downloads/UVNBanTay/demo.html",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/templates/parts/menu-main.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/nav-menu-template.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship/inc/widgets/widget-nav-stacked-pills-menu.php",
+		"/Users/etuannv/working/Cong thong tin/BackupUsingPowershell/May 93/Scripts/Portal_93_Fullbackup.ps1",
+		"/Applications/MAMP/htdocs/trungdu/wp-admin/menu-header.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-admin/menu.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-admin/media-new.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-admin/ms-edit.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-mail.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/http.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/js/hoverIntent.js",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/js/hoverIntent.min.js",
+		"/Users/etuannv/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/etuannv/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/js/heartbeat.js",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/plugins/wp-statistics/vendor/geoip2/geoip2/src/Exception/HttpException.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/footer.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/index.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/index.html",
+		"/Users/etuannv/Downloads/UVNNguyenDu/demo.html",
+		"/Applications/MAMP/htdocs/trungdu/wp-includes/general-template.php",
+		"/Applications/MAMP/Library/lib/perl5/5.22.0/Net/FTP/A.pm",
+		"/Applications/MAMP/htdocs/trungdu/db/20151202_trungdu.sql",
+		"/Users/etuannv/Desktop/thanh nien cong nhan.txt",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/sidebar.php",
+		"/Applications/MAMP/htdocs/trungdu/wp-content/themes/alienship-child/single.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Applications/MAMP/htdocs/trungdu,/Users/etuannv/www/auviet/wp-content/plugins/ajax-search-lite",
+			"/Applications/MAMP/htdocs/trungdu"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"utf8mb4",
+			"utf8_",
+			"utf8",
+			"http://localhost:8888/auviet",
+			"localhost",
+			"charset",
+			"utf",
+			"uft8",
+			"http://localhost:8888/auviet",
+			"localhost",
+			"utf8mb4",
+			"·     ",
+			"\\[*\\]",
+			"[*]",
+			"main",
+			".main",
+			"extend",
+			"\n",
+			"rpwe-block",
+			"small-list",
+			"small-list destinations",
+			"rpwe-title",
+			"h3",
+			"media",
+			"28",
+			"Open Sans",
+			"adjustTop",
+			"ajusttop",
+			"top",
+			">\";\n",
+			"asl_layout_before_shortcode",
+			"widget",
+			"before_widget",
+			">\"\n",
+			">\n",
+			"wpdreams_asl_container",
+			"ajaxsearchlite1",
+			"\n",
+			"vietnam",
+			"home",
+			"installed",
+			"Package Control",
+			"font-style",
+			"font-",
+			"font-style",
+			"h1",
+			"home",
+			"facebook",
+			"wp_head",
+			"'');",
+			"');\n",
+			"define('WP_HOME",
+			"WP_HOME",
+			"define",
+			"main",
+			"slide",
+			"brand",
+			"Nick_Của_Bạn",
+			"search",
+			"Search.php",
+			"Search",
+			"entry-header",
+			"large",
+			"Vinpearl Luxury Nha Trang",
+			"');\n",
+			">';\n",
+			"post_content",
+			"print_r",
+			">';\n",
+			");\n",
+			"check",
+			"update"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"utf8",
+			"htpp://auviet.tuvantinhoc.vn",
+			"utf8",
+			"     ",
+			"",
+			"secondary",
+			"article",
+			" ",
+			"",
+			"right-extend",
+			"\"Helvetica Neue\",Helvetica,Arial,sans-serif",
+			",",
+			"thanh.anvietthinh",
+			"Trung Du hotel"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 337.0
+	},
+	"project": "xkld.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"wp-content/themes/ChildTheme/byt-child/style.css"
+			],
+			[
+				"style-cur",
+				"wp-content/plugins/ajax-search-lite/css/style-curvy-blue.css"
+			],
+			[
+				"",
+				"wp-config.php"
+			],
+			[
+				"vertic",
+				"wp-content/plugins/wordpress-23-related-posts-plugin/static/themes/vertical.css"
+			],
+			[
+				"stye",
+				"wp-content/themes/alienship/style.css"
+			],
+			[
+				"sty",
+				"wp-content/themes/alienship/style.css"
+			],
+			[
+				"link-tem",
+				"wp-includes/link-template.php"
+			],
+			[
+				"wp-config",
+				"wp-config.php"
+			],
+			[
+				"sing",
+				"wp-content/themes/skt-hotel-lite/single.php"
+			],
+			[
+				"single",
+				"wp-content/themes/hoc-php/single.php"
+			],
+			[
+				"class-wp",
+				"wp-includes/class-wp.php"
+			],
+			[
+				"function",
+				"wp-includes/functions.php"
+			],
+			[
+				"template-load",
+				"wp-includes/template-loader.php"
+			],
+			[
+				"wpload",
+				"wp-load.php"
+			],
+			[
+				"wp-blog",
+				"wp-blog-header.php"
+			],
+			[
+				"index",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/hocbanhang/hocbanhang.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"wp_heda",
+				"wp_shortlink_wp_head"
+			],
+			[
+				"get_bloginf",
+				"get_bloginfo"
+			],
+			[
+				"main",
+				"sitemain"
+			]
+		],
+		"width": 827.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 310.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
